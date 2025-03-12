@@ -42,6 +42,7 @@ function App() {
         />
       </div>
 
+
       {/* 🎬 Categorías de Películas */}
       {filteredCategories.length > 0 ? (
         filteredCategories.map((category, index) => (
