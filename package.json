@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "cineverso",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "dependencies": {
+    "dotenv": "^16.4.7"
+>>>>>>> c739f80bd4a448e30b2ca4373baa9d352df90e1b
   }
 }
